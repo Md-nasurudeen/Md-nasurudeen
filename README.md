@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼learning everything that interests me.<br>🚧 Currently into Machine Learning and Cyber Security <br>👯‍♂️Looking forward to work in more collaborative team projects.<br>⚡My Superlative: The Best Pal👬 , The MacGyver🧩💡
+Hello! I am Mohamed Nasurudeen, a passionate Computer Science Engineering student. With a keen interest in software development, artificial intelligence, and data science, I thrive on solving complex problems and building innovative solutions. I have honed my skills in programming languages like Python, Java, and C++, and have hands-on experience with projects that leverage the latest technologies. Beyond academics, I enjoy participating in hackathons and coding competitions, which challenge me to think creatively and collaborate with others. When I'm not coding, you can find me exploring the latest tech trends, reading science fiction, or playing chess. I am excited to connect with like-minded individuals and contribute to the ever-evolving field of computer science.
 
 
 ## 🌐 Socials:
